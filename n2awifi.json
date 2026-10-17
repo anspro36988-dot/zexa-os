@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1792233175,
+      "filename": "Zexa-OS-0.4-SM-T520-EXPERIMENTAL.zip",
+      "id": "c5f8757075ed11b013b9be59e975d2d1b4013103191b90bef3585cc571f8917a",
+      "romtype": "unofficial",
+      "size": 440843455,
+      "url": "https://github.com/anspro36988-dot/zexa-os/releases/download/v0.4-sm-t520/Zexa-OS-0.4-SM-T520-EXPERIMENTAL.zip",
+      "version": "17.1",
+      "zexa_version": "0.4-experimental",
+      "sha256": "c5f8757075ed11b013b9be59e975d2d1b4013103191b90bef3585cc571f8917a"
+    }
+  ]
+}
